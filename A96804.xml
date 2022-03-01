@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief declaration of those that have accepted the trust of receiving and distributing such sums of money as wel-affected persons shall subscribe towards the maintenance of hopeful students at both the universities, for the speedy supply of the Church of God in England with godly and able ministers. Together with rules which they among themselves have agreed to observe therein; and some motives to incite well-affected persons to be assistant thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96804</idno>
+            <idno type="STC">Wing W3252</idno>
+            <idno type="STC">Wing B4565</idno>
+            <idno type="STC">Thomason 669.f.11[7]</idno>
+            <idno type="STC">Thomason 669.f.11[118]</idno>
+            <idno type="STC">ESTC R210412</idno>
+            <idno type="EEBO-CITATION">99869215</idno>
+            <idno type="PROQUEST">99869215</idno>
+            <idno type="VID">162769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96804)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[7] or 246:669f11[118])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief declaration of those that have accepted the trust of receiving and distributing such sums of money as wel-affected persons shall subscribe towards the maintenance of hopeful students at both the universities, for the speedy supply of the Church of God in England with godly and able ministers. Together with rules which they among themselves have agreed to observe therein; and some motives to incite well-affected persons to be assistant thereunto.</title>
+                  <author>Wollaston, John, Sir.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end by the trustees, beginning with the name of the Lord Mayor, Sir John Wollaston.</note>
+                  <note>Annotation on Thomason copy (669.f.11[7]): "Aprill 27".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Cambridge --  Early works to 1800.</term>
+               <term>University of Oxford --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:162769:1" rendition="simple:additions"/>
+            <head>
+               <hi>LONDON, Anno Dom.</hi> 1647. A Brief DECLARATION of thoſe that have accepted the <hi>Truſt</hi> of Receiving and Di<g ref="char:EOLhyphen"/>ſtributing ſuch Sums of money as wel-affected Perſons ſhall Subſcribe towards the Maintenance of hopeful STUDENTS at both the UNIVERSITIES, for the ſpeedy ſupply of the Church of GOD in <hi>England</hi> with godly and able Miniſters. Together with RULES which they among themſelves have agreed to obſerve therein; and ſome Motives to incite well-affected Perſons to be aſſiſtant thereunto.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE mature and ſerious conſideration of the preſent ſad condition of the Church of GOD within this Kingdome, hath put us (whoſe Names are hereunto annexed) upon a joynt Debate and Conſultation, both touching the Cauſes of it's Miſerie, and the proper Means of Remedy.</hi>
+            </p>
+            <p>
+               <hi>For the firſt; We find, that the ſcarcity of a Godly, Learned, and Orthodox MINISTERY, is one great cauſe of the woful Ignorance, Errors, Hereſies, Blaſphemies, and Prophaneſſe ſpreading and abounding throughout the Kingdom, to the diſhonour of God, reproach of the Goſpel, hinderance of the happy work of Reformation, and hazard of the eternall loſſe of many thouſand precious Soules. And we perceive how improbable it is that the want of ſuch a Miniſtery ſhould in any reaſonable time be com<g ref="char:EOLhyphen"/>petently ſupplied in thoſe many Congregations that are for preſent deſtitute, unleſſe ſome extraordinary courſe be ſpeedily taken: Being certainly informed that there are many hopefull young Students already in the <g ref="char:V">Ʋ</g>niverſity of</hi> Cambridge, <hi>diſabled to con<g ref="char:EOLhyphen"/>tinue there any longer; and many pregnant and hopefull Schollers ready for the <g ref="char:V">Ʋ</g>niverſities, diſcouraged and hindred from going thither; through lack of maintenance toward their ſubſiſtence there, whoſe Parents are either deſtroyed by theſe unnaturall Wars, or miſerably impoveriſhed and undone by want of Trading, heavy Taxes, Free-Quarter, Plunderings, and ſuch other Calamities as theſe ſad Times have produced.</hi>
+            </p>
+            <p>
+               <hi>And as touching the ſecond; We conceive, that one of the moſt ſpeedy, proper, and probable Remedies againſt this evil (next unto the care of provi<g ref="char:EOLhyphen"/>ding for thoſe who are there already) will be, forthwith to repleniſh both the</hi> Univerſities <hi>with ſtore of hopefull and promiſing Plants, addicted to Learning and Piety; and to ſupply them there for a convenient ſeaſon with ſome neceſſary maintenance: whereby Learning may be encouraged; Knowledge, Piety, and all Church-Reformation promoted; and a Generation trained up, who (through the bleſſing of our God) may become Paſtours according to Gods own heart, to feed the Sheep and Lambs of Chriſt with knowledge and underſtanding.</hi>
+            </p>
+            <p>
+               <hi>Whereupon we have thought it our duty, not only to do ſomething our ſelves to this excellent End; but alſo to commend ſo good a Work as this is, to all thoſe in and about LONDON or elſwhere, whoſe hearts the Lord ſhall incline to the furtherance thereof, by a free and voluntary Subſcription of ſeverall Summes of money, to be paid in (either at one or more entire Payments, Yearly or Quarterly, as ſhall ſeem beſt to the <g ref="char:V">Ʋ</g>nderwriters) unto ſuch</hi> Treaſurers <hi>as are herein named, and ſhall from time to time be appointed by the</hi> Truſtees <hi>(or ſeven of them at leaſt,</hi> viz. <hi>one Alderman, two Miniſters, and four Com<g ref="char:EOLhyphen"/>moners) by whoſe conſent and advice the ſaid Treaſurers may ſtill iſſue out the ſame to the End above propounded. Wherein alſo theſe Rules ſhal be obſerved.</hi>
+            </p>
+            <p n="1">I. THis Charity ſhall be extended to ſuch Students or Schollers only, as by reaſon of their Religious education, pregnant Naturall parts and Learning, inclinableneſſe to Piety and to the calling of the Miniſtery, are hopefull to prove able and fit Inſtruments for advancing Gods glory, and his Churches good.</p>
+            <p n="2">II. Care ſhall be had, that none of this Money ſhall be conferred upon any, but ſuch only whoſe Parents and Friends are in whole or in part diſabled to ſend them to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities,</hi> or maintain them there: And that more or leſſe ſhall be allowed to every one, according to the proportion of their wants and neceſſities reſpectively who ſhall receive it.</p>
+            <p n="3">III. Overſeers ſhall be appointed to have an eye to, and enquire after their carriage in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities;</hi> and if it ſhall be found either idle, or offenſive, and after admonition not reformed, the Exhibition allowed to ſuch perſon or perſons ſo delinquent, ſhalbe withdrawn.</p>
+            <p n="4">IV. The Exhibition allowed to any one ſhall only ſo long be continued, till he ſhall be judged, by the <hi>Truſtees,</hi> or (ſeven of them at leaſt, as aboveſaid) to be competently fit for the ſervice of the Church, or be otherwiſe provided for.</p>
+            <p n="5">V. Six of the <hi>Truſtees,</hi> viz. Two <hi>Aldermen</hi> and Four <hi>Commoners,</hi> ſhall be <hi>Treaſurers</hi> to Receive and Disburſe ſuch ſumme or ſummes of money as ſhall be ſubſcribed. Whereof three ſhall be New choſen every Year by the <hi>Truſtees,</hi> on the 25. day of <hi>March,</hi> or within 14. dayes after. The <hi>Treaſurers</hi> at preſent elected and appointed, are <hi>James Bunce</hi> Alderman. <hi>George Witham</hi> Alderman. <hi>Chriſtopher Pack</hi> Deputy. <hi>Walter Boothby</hi> Deputy. Mr. <hi>Alexander Jones</hi> and Mr. <hi>Daniel Androwes.</hi>
+            </p>
+            <p n="6">VI. The <hi>Treaſurers</hi> that now are, or ſhall hereafter be choſen, may not admit any perſon or perſons whatſoever to partake any of the ſaid Contribution or Exhibition, without the advice and approbation of the <hi>Truſtees,</hi> or ſeven of them as before; and that declared in writing under their hands at a Publike meeting, and Recorded. And there the <hi>Treaſurers</hi> ſhall be accountable four times at leaſt in every Year, both touching their Receipts, and their Disburſments: And to that end ſhall have <hi>Books of Accompts</hi> to be faithfully kept for the ſatisfaction of the <hi>Truſtees</hi> and Others as oft as need ſhall require.</p>
+            <p n="7">VII. Whenſoever it ſhall fall out that any of the Forty <hi>Truſtees</hi> ſhall die, or remove his habitation out of the City of <hi>London;</hi> The reſt of the <hi>Truſtees</hi> ſurviving or remaining, or the major part of them, ſhall meet together and elect another in his place, from time to time: And dili<g ref="char:EOLhyphen"/>gent heed ſhall be taken, that ſuch Perſons only may be choſen, as are apprehended to be men of active, faithfull, publique, and unanimous ſpirits; Men of ſound Judgement, and godly Converſation, cordially affected to the Church, and to a thorough Reformation.</p>
+            <div type="part">
+               <head>And for the better encouragement of all wel-affected perſons to ſo good and neceſſary a work, We offer to their prudent and pious thoughts theſe enſuing Conſiderations.</head>
+               <p n="1">1. Acts of charity &amp; bounty, though but to the outward man, are <hi>an odour of a ſweet ſmell to God,</hi> and <hi>ſuch ſacrifices wherewith he is well pleaſed,</hi> having many precious promiſes entailed upon them: How much more ſweet and acceptable to God ſhall thoſe acts of charity be, which tend to the relief of Soules, and may have influence into Eternity!</p>
+               <p n="2">2. Hereby a learned and godly Miniſtery will be ſpeedily prepared, for the many thouſand Congregations in this Kingdome now deſtitute thereof: whereupon, Gods glory will be advanced; his Truth and Goſpel diſperſed; Ignorance, Hereſie and Impiety extirpated; the life of Re<g ref="char:EOLhyphen"/>ligion and Reformation increaſed; the Church of God built; and multitudes of poor Souls that ſit in darkneſſe and ſhadow of death, furthered in their way to Heaven, both at preſent and i<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cceeding Ages.</p>
+               <p n="3">3. Hereby the ſubtile devices of Satan, ſtrongly working in theſe dayes, to overthrow Truth, Godlineſſe, Reformation, the Kingdome of Chriſt, and all the Churches happineſſe at once (by the extirpation and ſubverſion of the godly and learned Miniſtery) ſhall be countermined and diſappointed, whilſt through Gods bleſſing upon theſe our endeavours an able Miniſtery is ſet up and increaſed.</p>
+               <p n="4">4. Theſe dayes of Reformation promiſe to us, that young Students in both the <hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> ſhall be more religiouſly trained up there, and alſo better provided for when they return thence, then in former times they have been; which conſideration may much encourage us.</p>
+               <p n="5">5. The honour and credit of the Goſpel of <hi>Jeſus Chriſt,</hi> whereof <hi>England</hi> hath had ſo long, ſweet, and full enjoyment, ſhould much incite our zeal to count no worldly treaſures dear unto us, that we may ſupport the ſame in its Spirituall glory, and ſo propagate it to Poſterity. Did our Predeceſſors ſacrifice their lives for the Truth, and ſhall we grudge a ſmall pittance of our eſtates for the furtherance thereof? Yea, ſhall <hi>Papiſts</hi> be ſo bountifull to maintain Superſtition; <hi>Heretieks,</hi> to advance and propagate their blaſphemous Hereſies; and the very <hi>Heathens</hi> to uphold their vani<g ref="char:EOLhyphen"/>ties; And ſhall not we much more be open-hearted and open-handed to advance the true Reformed Religion?</p>
+               <p n="6">6. How famous hath <hi>LONDON</hi> been in former times, for erecting and maintaining <hi>Lectures</hi> in the dark corners of this Land? How active of late, in adhering to, &amp; in adventuring their All in this great <hi>Cauſe of GOD?</hi> And how will it adde to their honour, peace and comfort, to be exemplary in this ſo good a work alſo? Who knowes, but ſuch an example of Zeal and Piety may have an influence upon other Cities and rich places of this Kingdome, to ſtir up their imitation of them herein; which may cauſe exceeding many thankſgivings to God, both in the preſent and ſucceeding Generations.</p>
+               <p n="7">7. Finally, it is clearly evident upon manifold experience, That as poor mens ſons for moſt part do more ſeriouſly devote themſelves to lear<g ref="char:EOLhyphen"/>ning then others do: So God hath pleaſed not only to open mens hearts by charitable contributions to encourage their ſtudies, but alſo to make much uſe of them in the work of the Miniſtry within this Kingdom, and that in the worſt of times, for Converſion of Souls, edification of his Church and advancement of the glory of his own moſt holy name.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>The names of the TRUSTEES.</head>
+                        <item>
+                           <hi>Sir</hi> John Wollaſton <hi>Alder.</hi>
+                        </item>
+                        <item>Tho. Adams <hi>Alder.</hi>
+                        </item>
+                        <item>John Warner <hi>Alder.</hi>
+                        </item>
+                        <item>Jo. Langham <hi>Alder.</hi>
+                        </item>
+                        <item>James Bunce <hi>Alder.</hi>
+                        </item>
+                        <item>Tho. Foot <hi>Alder.</hi>
+                        </item>
+                        <item>Jo. Kendrick <hi>Alder.</hi>
+                        </item>
+                        <item>John Byde <hi>Alder.</hi>
+                        </item>
+                        <item>George Witham <hi>Alder.</hi>
+                        </item>
+                        <item>Tho. Vyner <hi>Alder.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr.</hi> Steph. Marſhal.</item>
+                        <item>
+                           <hi>Mr.</hi> Edm. Calamy.</item>
+                        <item>
+                           <hi>Mr.</hi> Jer. Whitaker.</item>
+                        <item>
+                           <hi>Mr.</hi> Obad. Sedgwick.</item>
+                        <item>
+                           <hi>Mr.</hi> Sim. Aſhe.</item>
+                        <item>
+                           <hi>Mr.</hi> Thomas Caſe.</item>
+                        <item>
+                           <hi>Mr.</hi> Laz. Seaman.</item>
+                        <item>
+                           <hi>Mr.</hi> Sam. Clark.</item>
+                        <item>
+                           <hi>Mr.</hi> Fran. Roberts.</item>
+                        <item>
+                           <hi>Mr.</hi> Will. Jenkin.</item>
+                        <item>
+                           <hi>Col.</hi> Fran. Weſt.</item>
+                        <item>
+                           <hi>Mr.</hi> Rich. Turner <hi>Deputy.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr.</hi> Chriſtoph. Pack. <hi>Dep.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr.</hi> Walt. Boothby <hi>Dep.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr.</hi> Tho. Arnold <hi>Dep.</hi>
+                        </item>
+                        <item>
+                           <hi>Col.</hi> Rob. Manwaring.</item>
+                        <item>
+                           <hi>Col.</hi> Edw. Hooker.</item>
+                        <item>
+                           <hi>Col.</hi> John Bellamie.</item>
+                        <item>
+                           <hi>L. Col.</hi> Lawr. Broomfield.</item>
+                        <item>
+                           <hi>Mr.</hi> Alex. Jones.</item>
+                        <item>
+                           <hi>Mr.</hi> Andr. Kenrick.</item>
+                        <item>
+                           <hi>Capt.</hi> Rich. Vennour.</item>
+                        <item>
+                           <hi>Major</hi> Joſeph Vaughan.</item>
+                        <item>
+                           <hi>Mr.</hi> Steph. White.</item>
+                        <item>
+                           <hi>Mr.</hi> James Martin.</item>
+                        <item>
+                           <hi>Mr.</hi> William Kendal.</item>
+                        <item>
+                           <hi>Mr.</hi> Dan. Androwes.</item>
+                        <item>
+                           <hi>Mr.</hi> Tho. Bewley.</item>
+                        <item>
+                           <hi>Mr.</hi> Temp. Milner.</item>
+                        <item>
+                           <hi>Mr.</hi> Lawr. Brinley.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
